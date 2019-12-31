@@ -1,0 +1,68 @@
+body {
+    background-color: #fbf8e5;
+    color: #6e7d9e;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.GIGAlogo   {
+    float: left;
+    min-height: 30px;
+}
+.Emblem   {
+    float: right;
+}
+
+.column {
+    float: left;
+    width: 25%;
+}
+
+.columnright {
+    float: right;
+    width: 25%
+}
+
+.middle {
+    width: 50%;
+}
+
+
+.songlft   {
+    float: left;
+    min-height: 20px;
+}
+.songrgt   {
+    float: right;
+    min-height: 20px;
+}
+
+
+header {
+    background-color: #080607;
+    color: #A5B7C5;
+    padding: 20px 20px;
+    text-align: center;
+}
+header > h1 {
+    text-align: center;
+    font-size: 32px;
+    letter-spacing: 5px;
+}
+ul > li { 
+ word-spacing: 10px;
+}
+
+header > h3 {
+    background-color: #3634a5;
+    text-align: center;
+    font-size: 32px;
+    letter-spacing: 5px;
+}
+body > nav {
+    font-weight: bolder;
+
+}
+footer {
+    background-color: #A5B7C5;
+    padding: 5px 10px;
+}
